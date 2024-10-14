@@ -10,3 +10,15 @@ C:\Users\ianho\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\ne
 C:\Users\ianho\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\refint\Serializer.dll
 C:\Users\ianho\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.pdb
 C:\Users\ianho\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\ref\Serializer.dll
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net8.0\Serializer.deps.json
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net8.0\Serializer.dll
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\bin\Debug\net8.0\Serializer.pdb
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.AssemblyInfoInputs.cache
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.AssemblyInfo.cs
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.csproj.CoreCompileInputs.cache
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.sourcelink.json
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.dll
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\refint\Serializer.dll
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\Serializer.pdb
+c:\Users\jzh85\OneDrive\Documents\GitHub\CS376-student\Serializer\Serializer\obj\Debug\net8.0\ref\Serializer.dll
